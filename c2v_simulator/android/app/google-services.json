@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "658002885015",
+    "firebase_url": "https://transit-e86c6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "transit-e86c6",
+    "storage_bucket": "transit-e86c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658002885015:android:68c9cd5a4680a6053becd2",
+        "android_client_info": {
+          "package_name": "com.example.app_device1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTdLdpiXViBD4HflFDx81p4r2P25Qxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658002885015:android:0795ef53598ff2b03becd2",
+        "android_client_info": {
+          "package_name": "com.example.c2v_simulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTdLdpiXViBD4HflFDx81p4r2P25Qxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658002885015:android:c801eb7aa2d4e1233becd2",
+        "android_client_info": {
+          "package_name": "com.example.c2v_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjTdLdpiXViBD4HflFDx81p4r2P25Qxko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
