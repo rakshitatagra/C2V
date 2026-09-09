@@ -4,16 +4,12 @@
 #include <BLEAdvertising.h>
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
+#include "secrets.h"
 
 // ============================================
 // YOUR SETTINGS
 // ============================================
-#define WIFI_SSID     "Purva's S22"
-#define WIFI_PASSWORD "***REMOVED***"
-#define API_KEY       "AIzaSyDyaNqqF0XRG8_VdsmvjsTY6yBnRLSUL4w"
-#define USER_EMAIL    "bus_device@transit.com"
-#define USER_PASSWORD "***REMOVED***"
-#define DATABASE_URL  "https://transit-e86c6-default-rtdb.asia-southeast1.firebasedatabase.app/"
+
 #define BUS_ROUTE     "BUS_402"
 
 // ============================================
